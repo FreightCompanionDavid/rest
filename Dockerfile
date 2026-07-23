@@ -1,5 +1,5 @@
 # We’re using the version 2.14.X of Prefect with Python 3.11
-FROM prefecthq/prefect:2.18-python3.11
+FROM prefecthq/prefect:3.8-python3.11
 
 RUN mkdir -p /opt/prefect/flows
 
